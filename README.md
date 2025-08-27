@@ -40,9 +40,7 @@ Node.js (versão 18+)
 
 Gerenciador de pacotes: npm ou yarn
 
-Passo a passo
-# Clonar repositório
-git clone https://github.com/seu-usuario/site-mudancas.git
+
 
 # Acessar a pasta do projeto
 cd site-mudancas
